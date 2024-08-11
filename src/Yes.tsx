@@ -13,7 +13,7 @@ const Yes = () => {
     <div key={index} className="flex flex-col items-center">
       <Envelope id={index}>{message}</Envelope>
       <p className="text-slate-100 mb-2 text-2xl">
-        {['For today', 'Anytime', 'Romantic time!'][index]}
+        {['Whenever', 'Anytime', 'Romantic time!'][index]}
       </p>
     </div>
   ));
