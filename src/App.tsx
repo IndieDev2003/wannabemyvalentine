@@ -37,7 +37,7 @@ function App() {
         <Background />
         <div className="flex flex-col gap-24 md:mt-44 mt-32 justify-center">
           <h1 className="text-3xl md:text-6xl mb-14 md:mb-0 z-50 white-shadow">
-            Wanna be my Valentine?
+            Wanna be my Wife?
           </h1>
           <div className="flex  justify-around xl:justify-center xl:gap-32 z-50">
             <h1 className="kreep">
