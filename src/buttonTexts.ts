@@ -9,7 +9,7 @@ export const negativeTexts = [
   'You gonna be singel',
   'You are dead to me',
   'This is you last chance',
-  'Johnie Hjelm! I warn you!',
+  'Catty ! I warn you!',
   'How can you do it?',
   'After all we went through?',
   'You better run',
